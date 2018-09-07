@@ -13,4 +13,4 @@ When you called proposeMarriage() it generated a new Marriage contract tying bot
 
 The MarriageRegistry contract has been deployed in Ropsten testnet and verified through Etherscan at address: 0x57f38682c5E802f78cCC71B2D2932230b1C41c47
 
-For more info, read my article on Medium.
+For more info, read [my article on Medium](https://hackernoon.com/hey-baby-i-think-i-wanna-marry-you-on-the-blockchain-3227ba3bdfe).
